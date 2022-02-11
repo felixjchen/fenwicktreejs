@@ -15,7 +15,7 @@ console.log(fenwickTree.query(4)) // 5
 console.log(fenwickTree.query(5)) // 10
 ```
 
-### Notes
+### Note
 
 - query(i) is 1-indexed
 - update(i, diff) is 1-indexed

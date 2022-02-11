@@ -1,5 +1,3 @@
-# fenwicktreejs
-
 ### Description
 
 Fenwick Tree with log(n) update and query to calculate prefix sums.

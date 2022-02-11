@@ -2,7 +2,7 @@
 
 ### Description
 
-Fenwick Tree with log(n) update and query to implement a prefix sum.
+Fenwick Tree with log(n) update and query to calculate prefix sums.
 
 ### Usage
 

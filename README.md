@@ -1,6 +1,8 @@
 ### Description
 
-Fenwick Tree with log(n) update and query to calculate prefix sums.
+Fenwick Tree in TypeScript with log(n) update and query to calculate prefix sums.
+
+Used for Solidity package [feenwicktreesol](https://www.npmjs.com/package/fenwicktreesol)
 
 ### Usage
 

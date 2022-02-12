@@ -22,6 +22,6 @@ console.log(fenwickTree.query(5)) // 10
 - query(i) is 1-indexed
 - update(i, diff) is 1-indexed
 
-### Sources
+### Source
 
 - [Igor Carpanese](https://medium.com/carpanese/a-visual-introduction-to-fenwick-tree-89b82cac5b3c)

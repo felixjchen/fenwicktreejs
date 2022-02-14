@@ -6,7 +6,7 @@ Used for Solidity package [feenwicktreesol](https://www.npmjs.com/package/fenwic
 
 ### Usage
 
-```
+```ts
 import { FenwickTree } from "fenwicktreejs";
 const A = [1, 5, -1, 0, 5];
 const fenwickTree = new FenwickTree(A);
